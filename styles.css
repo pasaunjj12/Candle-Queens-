@@ -141,6 +141,7 @@ section {
 
 .btn-primary:hover {
   background-color: var(--cream);
+  color: var(--burgundy);
 }
 
 .btn-secondary {
@@ -167,7 +168,7 @@ section {
       rgba(0, 0, 0, 0.55),
       rgba(0, 0, 0, 0.7)
     ),
-    url("images/hero-candle.jpg") center / cover no-repeat;
+    url("images/vanilla.PNG") center / cover no-repeat;
 }
 
 .hero-content {
